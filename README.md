@@ -58,7 +58,6 @@
 </td>
 </tr>
 </table>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuainovero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Footer -->
 
@@ -66,7 +65,7 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuainovero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Visitor Count](https://profile-counter.glitch.me/joshuainovero/count.svg)
 
 
