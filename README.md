@@ -68,7 +68,7 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/joshuainovero/count.svg) 
-   <br>
+   <br><br>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuainovero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br> <br>
 
