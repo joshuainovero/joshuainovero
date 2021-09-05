@@ -70,7 +70,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/joshuainovero/count.svg) 
    <br>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuainovero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  <br> 
+  <br> <br>
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
