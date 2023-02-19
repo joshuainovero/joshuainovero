@@ -1,8 +1,7 @@
 
 <div align="center">
   
-## About
-Roblox Developer...
+
 
 -------------------
 
