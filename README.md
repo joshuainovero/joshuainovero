@@ -36,7 +36,7 @@
 
 <!--Intro end-->
 
-
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=joshuainovero&theme=dark&show_icons=true&count_private=true" />
 
 <!--- stats & Trophy (start) -->
 <p align="center">
